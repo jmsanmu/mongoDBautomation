@@ -1,0 +1,5 @@
+[
+{ "_id" : { "$oid" : "5b8ce784f69f542468e90c80" }, "purposeId" : null, "purposeName" : "Name of the purpose", "consented" : false, "userId" : "borja" },
+{ "_id" : { "$oid" : "5b8ce785f69f542468e90c81" }, "purposeId" : null, "purposeName" : "Name of the purpose", "consented" : false, "userId" : "borja" },
+{ "_id" : { "$oid" : "5b8ce785f69f542468e90c82" }, "purposeId" : null, "purposeName" : "Name of the purpose", "consented" : false, "userId" : "borja" }
+]
